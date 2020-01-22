@@ -5,3 +5,9 @@ Teammates: Elie Sabbagh, Abdul Sirawan, Rakimul Huq, Arseny Kokotov
 GitHub accounts: ESEliot, AbdulSir, Rak-bot, ArsenyKokotov
 Languages: MEAN STACK, Or css, html, javascript, php, mysql. Undecided yet.
 
+Core Features:
+Posting picture
+Following a user and receiving notification
+Posting a comment 
+Likes
+Time of posting
